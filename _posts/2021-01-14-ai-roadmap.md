@@ -11,7 +11,7 @@ Some days ago I've found [this site](https://i.am.ai/roadmap/) which seems to gi
 
 I thought I'd be fun to go over the roadmap and see the gaps in my knowledge.
 
-![from https://i.am.ai/roadmap/](../assets/images/ai-roadmap-fundamentals.png)
+![from https://i.am.ai/roadmap/](/blog/assets/images/ai-roadmap-fundamentals.png)
 
 I know there's always more to learn but I think the LinAlg, Database, Tabular Data, Data Frames, ETL, JSON, XML, CSV and RegExp boxes are ✅.
 
