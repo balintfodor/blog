@@ -10,10 +10,7 @@ In the [previous post](blog/ai-roadmap) I said I've got some linear algebra back
 
 Disclaimer: I'm not gonna shoot for mathematical rigorousness in the formulation and definitely won't aim for a very efficient implementation.
 
-When I started the PhD school (which I've never finished unfortunately) for me the most exciting lecture was [Analysis of Matrices](https://portal.vik.bme.hu/kepzes/targyak/VIMAD569/en/). I wanted to learn about the topic in a more comprehensive way than they taught during the undergraduate school. At the time I didn't own the suggested textbook but some years ago, for nostalgic reasons I guess, I managed to buy a second-hand copy of _Rózsa Pál: Lineáris algebra és alkalmazásai, Műszaki könyvkiadó, Budapest, 1974_. Yeah, this is Hungarian, sorry. The 3rd edition is available somewhere online I think.
+For me one of the most exciting lectures was [Analysis of Matrices](https://portal.vik.bme.hu/kepzes/targyak/VIMAD569/en/). I wanted to learn about the topic in a more comprehensive way than they taught during the undergraduate school. At the time I didn't own the suggested textbook but some years ago, for nostalgic reasons I guess, I managed to buy a second-hand copy of _Rózsa Pál: Lineáris algebra és alkalmazásai, Műszaki könyvkiadó, Budapest, 1974_. Yeah, this is Hungarian, sorry. The 3rd edition is available somewhere online I think.
 
 For reference, it was section 11.3, "numerical solutions for the eigenvalue problem" where I started reading. I didn't get too far because I decided to start to implement the Householder transformation. It's the first step in the book to determine the eigenvalues and eigenvectors of a symmetric matrix A.
 
-It's time to add some latex support for the blog I guess.
-
-\\[y_0\\]
