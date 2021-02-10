@@ -5,6 +5,7 @@ categories: blog
 tags:
   - ai
   - roadmap
+classes: wide
 ---
 
 Some days ago I've found [this site](https://i.am.ai/roadmap/) which seems to give a good enumeration of the different competences that I'm interested in. Years ago I've completed a [coursera course on machine learning](https://www.coursera.org/learn/machine-learning) and the first two parts of the [Udacity Self-Driving Car Engineer Nanodegree Program](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) but I've never actually used the learnt things in production.
